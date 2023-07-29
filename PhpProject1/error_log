@@ -1,0 +1,99 @@
+[27-Apr-2021 17:18:43 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:43 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:43 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:47 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:47 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:47 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:49 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:49 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:49 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:50 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:50 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:18:50 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:24 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:24 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:24 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:26 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:26 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:26 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:31 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:31 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:19:31 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:01 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:01 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:01 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:03 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:03 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:03 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:04 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:04 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:04 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:05 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:05 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:05 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:25 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:25 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:25 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:26 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:26 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:26 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:28 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:28 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:28 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:30 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:30 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:30 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:46 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:46 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:46 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:51 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:51 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:51 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:52 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:52 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:52 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:55 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:55 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:20:55 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:21:54 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:21:54 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:21:54 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:22:48 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:22:48 UTC] PHP Warning:  require(./phpStoredProcedures.php): failed to open stream: No such file or directory in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:22:48 UTC] PHP Fatal error:  require(): Failed opening required './phpStoredProcedures.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 2
+[27-Apr-2021 17:23:16 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[27-Apr-2021 17:23:42 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:25:25 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:25:58 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:29:23 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:29:25 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:29:26 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:29:27 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:32:25 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:34:25 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 15:49:27 UTC] PHP Notice:  Undefined index: column in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 13
+[28-Apr-2021 16:12:17 UTC] PHP Notice:  Undefined index: column_Name in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 16
+[28-Apr-2021 20:13:47 UTC] PHP Notice:  Undefined index: column_Name in /home/e683qhjxt671/public_html/phpProject1/sortScript.php on line 16
+[26-Jul-2021 21:22:58 UTC] PHP Notice:  Undefined index: filterArray in /home/e683qhjxt671/public_html/phpProject1/filterScript.php on line 14
+[26-Jul-2021 21:24:06 UTC] PHP Notice:  Undefined index: filterArray in /home/e683qhjxt671/public_html/phpProject1/filterScript.php on line 14
+[26-Jul-2021 21:24:58 UTC] PHP Notice:  Undefined index: filterArray in /home/e683qhjxt671/public_html/phpProject1/filterScript.php on line 14
+[26-Jul-2021 21:25:13 UTC] PHP Notice:  Undefined index: filterArray in /home/e683qhjxt671/public_html/phpProject1/filterScript.php on line 14
+[26-Jul-2021 21:36:36 UTC] PHP Notice:  Undefined index: filterArray in /home/e683qhjxt671/public_html/phpProject1/filterScript.php on line 14
+[27-Jul-2021 00:17:54 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:21:40 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:21:56 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:22:06 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:22:08 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:22:16 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:22:17 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:22:36 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:24:18 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[27-Jul-2021 00:26:20 UTC] PHP Notice:  Undefined variable: stmt in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 671
+[03-Feb-2022 00:20:10 UTC] PHP Warning:  Undefined array key "ticket" in /home/e683qhjxt671/public_html/phpProject1/reassignScript.php on line 13
+[03-Feb-2022 00:20:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 510
+[03-Feb-2022 01:04:16 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 510
+[03-Feb-2022 01:11:36 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home/e683qhjxt671/public_html/phpStoredProcedures.php on line 510
+[22-Feb-2022 20:08:11 UTC] PHP Warning:  Undefined array key "ticket" in /home/e683qhjxt671/public_html/phpProject1/reassignScript.php on line 15
+[23-Feb-2022 20:32:43 UTC] PHP Warning:  Undefined array key "ticket" in /home/e683qhjxt671/public_html/phpProject1/reassignScript.php on line 15
+[24-Feb-2022 19:48:33 UTC] PHP Warning:  Undefined array key "ticket" in /home/e683qhjxt671/public_html/phpProject1/reassignScript.php on line 15
+[24-Feb-2022 19:49:05 UTC] PHP Warning:  Undefined array key "ticket" in /home/e683qhjxt671/public_html/phpProject1/reassignScript.php on line 15
